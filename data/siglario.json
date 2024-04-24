@@ -1,0 +1,1150 @@
+[
+    {
+        "sigla":"17\u03b2-HSD",
+        "significado":"17 beta-hidroxiesteroide desidrogenase "
+    },
+    {
+        "sigla":"25OHD",
+        "significado":"25 hidroxivitamina D "
+    },
+    {
+        "sigla":"ACTH",
+        "significado":"horm\u00f4nio adrenocorticotr\u00f3fico (pg\/mL) adrenocorticotropic hormone"
+    },
+    {
+        "sigla":"AMP",
+        "significado":"monofosfato de adenosina adenosine monophosphate"
+    },
+    {
+        "sigla":"AMPK",
+        "significado":"prote\u00edna quinase ativada por monofosfato de adenosina adenosine monophosphate-activated protein kinase"
+    },
+    {
+        "sigla":"Apo",
+        "significado":"Apolipoprote\u00edna "
+    },
+    {
+        "sigla":"Apo A-I (e varia\u00e7\u00f5es)",
+        "significado":"Apolipoprote\u00edna A-I "
+    },
+    {
+        "sigla":"ARVs",
+        "significado":"antirretrovirais "
+    },
+    {
+        "sigla":"ATP",
+        "significado":"trifosfato de adenosina adenosine triphosphate"
+    },
+    {
+        "sigla":"AVC",
+        "significado":"acidente vascular cerebral "
+    },
+    {
+        "sigla":"BNDF",
+        "significado":"fator neutr\u00f3fico derivado do c\u00e9rebro brain-derived neurotrophic factor"
+    },
+    {
+        "sigla":"ClCr",
+        "significado":"clearance de creatinina "
+    },
+    {
+        "sigla":"colesterol HDL",
+        "significado":"colesterol lipoprote\u00edna de alta densidade (mg\/dL) high density lipoprotein cholesterol"
+    },
+    {
+        "sigla":"colesterol LDL",
+        "significado":"colesterol lipoprote\u00edna de baixa densidade low density lipoprotein cholesterol"
+    },
+    {
+        "sigla":"DAC",
+        "significado":"doen\u00e7a arterial coronariana "
+    },
+    {
+        "sigla":"DC",
+        "significado":"d\u00e9bito card\u00edaco "
+    },
+    {
+        "sigla":"DHEA",
+        "significado":"dehidroepiandrosterona (ng\/mL) "
+    },
+    {
+        "sigla":"DHGNA",
+        "significado":"doen\u00e7a hep\u00e1tica gordurosa n\u00e3o alco\u00f3lica "
+    },
+    {
+        "sigla":"DHT",
+        "significado":"di-hidrotestosterona "
+    },
+    {
+        "sigla":"DM",
+        "significado":"diabetes melito "
+    },
+    {
+        "sigla":"DM1",
+        "significado":"diabetes melito tipo 1 "
+    },
+    {
+        "sigla":"DM2",
+        "significado":"diabetes melito tipo 2 "
+    },
+    {
+        "sigla":"DMO",
+        "significado":"densidade mineral \u00f3ssea bone mineral density"
+    },
+    {
+        "sigla":"DXA",
+        "significado":"absorciometria por dupla emiss\u00e3o de raio X dual emission X-ray absorptiometry"
+    },
+    {
+        "sigla":"ECG",
+        "significado":"eletrocardiograma "
+    },
+    {
+        "sigla":"eixo HHA",
+        "significado":"eixo hipot\u00e1lamo-hip\u00f3fise-adrenal "
+    },
+    {
+        "sigla":"FC",
+        "significado":"frequ\u00eancia card\u00edaca (bpm) "
+    },
+    {
+        "sigla":"FGF-21",
+        "significado":"fator de crescimento do fibroblasto 21 fibroblast growth factor 21"
+    },
+    {
+        "sigla":"FSH",
+        "significado":"horm\u00f4nio foliculoestimulante follicle-stimulating hormone"
+    },
+    {
+        "sigla":"GGT",
+        "significado":"gama-glutamiltransferase "
+    },
+    {
+        "sigla":"GH",
+        "significado":"horm\u00f4nio do crescimento growth hormone"
+    },
+    {
+        "sigla":"GHRH",
+        "significado":"horm\u00f4nio liberador de horm\u00f4nio do crescimento growth hormone releasing hormone"
+    },
+    {
+        "sigla":"GIP",
+        "significado":"polipept\u00eddeo insulinotr\u00f3pico dependente da glucose glucose-dependent insulinotropic polypeptide"
+    },
+    {
+        "sigla":"GLP-1",
+        "significado":"pept\u00eddeo semelhante ao glucagon 1 glucagon-like peptide 1"
+    },
+    {
+        "sigla":"GLUT4",
+        "significado":"transportador de glicose tipo 4 glucose transporter type 4"
+    },
+    {
+        "sigla":"GnRH",
+        "significado":"horm\u00f4nio liberador de gonadotrofinas gonadotropin-releasing hormone"
+    },
+    {
+        "sigla":"GnRHa",
+        "significado":"an\u00e1logos do horm\u00f4nio liberador das gonadotrofinas gonadotropin-releasing hormone analogue"
+    },
+    {
+        "sigla":"HAS",
+        "significado":"hipertens\u00e3o arterial sist\u00eamica "
+    },
+    {
+        "sigla":"HbA1c",
+        "significado":"hemoglobina glicada (%) "
+    },
+    {
+        "sigla":"hCG",
+        "significado":"gonadotrofina cori\u00f4nica humana human chorionic gonadotropin"
+    },
+    {
+        "sigla":"HDL",
+        "significado":"lipoprote\u00edna de alta densidade high-density lipoprotein"
+    },
+    {
+        "sigla":"HMG-CoA",
+        "significado":"hidroximetilglutaril-coenzima A "
+    },
+    {
+        "sigla":"HSC",
+        "significado":"hipotiroidismo subcl\u00ednico "
+    },
+    {
+        "sigla":"ICSI",
+        "significado":"inje\u00e7\u00e3o intracitoplasm\u00e1tica de espermatozoides intracytoplasmic sperm injection"
+    },
+    {
+        "sigla":"iDPP-4",
+        "significado":"inibidores da dipeptidil peptidase 4 "
+    },
+    {
+        "sigla":"IGF-1",
+        "significado":"fator de crescimento semelhante \u00e0 insulina tipo 1 insulin-like growth factor 1"
+    },
+    {
+        "sigla":"IGFBP-3",
+        "significado":"prote\u00edna de liga\u00e7\u00e3o do fator do crescimento semelhante \u00e0 insulina 3 insulin-like growth factor binding protein 3"
+    },
+    {
+        "sigla":"IL-X",
+        "significado":"interleucina X "
+    },
+    {
+        "sigla":"INI",
+        "significado":"inibidores da integrase "
+    },
+    {
+        "sigla":"insulina NPH",
+        "significado":"protamina neutra de Hagedorn neutral protamine Hagedorn"
+    },
+    {
+        "sigla":"IRA",
+        "significado":"insufici\u00eancia renal aguda "
+    },
+    {
+        "sigla":"iSGLT-2",
+        "significado":"inibidor do cotransportador s\u00f3dio-glicose 2 sodium-glucose cotransporter 2 inhibitor"
+    },
+    {
+        "sigla":"ITRNN",
+        "significado":"inibidores da transcriptase reversa n\u00e3o an\u00e1logo de nucleos\u00eddeo "
+    },
+    {
+        "sigla":"ITRNs",
+        "significado":"inibidores da transcriptase reversa an\u00e1logo de nucleos\u00eddeo "
+    },
+    {
+        "sigla":"LDL",
+        "significado":"lipoprote\u00edna de baixa densidade (mg\/dL) low-density lipoprotein"
+    },
+    {
+        "sigla":"LH",
+        "significado":"horm\u00f4nio luteinizante (mU\/L) luteinizing hormone"
+    },
+    {
+        "sigla":"LIF",
+        "significado":"fator inibidor de leucemia leukemia inhibitory factor"
+    },
+    {
+        "sigla":"MTF",
+        "significado":"metformina "
+    },
+    {
+        "sigla":"OPPG",
+        "significado":"osteoporose pseudoglioma "
+    },
+    {
+        "sigla":"PCOS",
+        "significado":"s\u00edndrome dos ov\u00e1rios polic\u00edsticos polycystic ovary syndrome"
+    },
+    {
+        "sigla":"PCSK9",
+        "significado":"pr\u00f3-prote\u00edna convertase subtilisina-kexina tipo 9 proprotein convertase subtilisin-kexin type 9"
+    },
+    {
+        "sigla":"PPAR-\u03b1",
+        "significado":"receptor ativado por proliferadores do peroxissoma \u03b1 peroxisome proliferator-activated receptor \u03b1"
+    },
+    {
+        "sigla":"PTH",
+        "significado":"horm\u00f4nio da paratiroide \/ paratorm\u00f4nio "
+    },
+    {
+        "sigla":"RC",
+        "significado":"raz\u00e3o de chance odds ratio (OR)"
+    },
+    {
+        "sigla":"RYGB",
+        "significado":"bypass g\u00e1strico em Y de Roux Roux-en-Y gastric bypass"
+    },
+    {
+        "sigla":"SHBG",
+        "significado":"globulina ligadora de horm\u00f4nios sexuais sex hormone-binding globulin"
+    },
+    {
+        "sigla":"SIADH",
+        "significado":"s\u00edndrome da secre\u00e7\u00e3o inapropriada de horm\u00f4nio antidiur\u00e9tico syndrome of inappropriate antidiuretic hormone secretion"
+    },
+    {
+        "sigla":"SPARC",
+        "significado":"prote\u00edna secretada \u00e1cida e rica em ciste\u00edna secreted protein acidic and rich in cysteine"
+    },
+    {
+        "sigla":"sTNFR",
+        "significado":"receptor do fator de necrose tumoral sol\u00favel soluble tumor necrosis factor receptors"
+    },
+    {
+        "sigla":"TARV",
+        "significado":"terapia antirretroviral "
+    },
+    {
+        "sigla":"TBLH",
+        "significado":"corpo total menos a cabe\u00e7a total body less head"
+    },
+    {
+        "sigla":"TGO",
+        "significado":"transaminase glut\u00e2mico-oxaloac\u00e9tica "
+    },
+    {
+        "sigla":"TGP",
+        "significado":"transaminase glut\u00e2mico-pir\u00favica "
+    },
+    {
+        "sigla":"TNF-\u03b1",
+        "significado":"fator de necrose tumoral alfa tumor necrosis factor alpha"
+    },
+    {
+        "sigla":"TSH",
+        "significado":"horm\u00f4nio estimulador da tiroide (mIU\/L) thyroid-stimulating hormone"
+    },
+    {
+        "sigla":"UCP-1",
+        "significado":"prote\u00edna desacopladora 1 "
+    },
+    {
+        "sigla":"VLDL",
+        "significado":"lipoprote\u00edna de muito baixa densidade very low-density lipoprotein"
+    },
+    {
+        "sigla":"VO2m\u00e1x",
+        "significado":"consumo m\u00e1ximo de oxig\u00eanio "
+    },
+    {
+        "sigla":"IOP",
+        "significado":"insufici\u00eancia ovariana prematura "
+    },
+    {
+        "sigla":"FOP",
+        "significado":"fal\u00eancia ovariana prim\u00e1ria "
+    },
+    {
+        "sigla":"CMV",
+        "significado":"citomegalov\u00edrus "
+    },
+    {
+        "sigla":"HAM",
+        "significado":"horm\u00f4nio antim\u00fclleriano "
+    },
+    {
+        "sigla":"Iede",
+        "significado":"Instituto Estadual de Diabetes e Endocrinologia Luiz Capriglione "
+    },
+    {
+        "sigla":"Sbem",
+        "significado":"Sociedade Brasileira de Endocrinologia e Metabologia "
+    },
+    {
+        "sigla":"DBCP",
+        "significado":"dibromocloropropano "
+    },
+    {
+        "sigla":"StAR",
+        "significado":"prote\u00edna reguladora aguda esteroidog\u00eanica steroidogenic acute regulatory protein"
+    },
+    {
+        "sigla":"T4",
+        "significado":"tetraiodotironina "
+    },
+    {
+        "sigla":"LDH",
+        "significado":"lactato desidrogenase (U\/L) "
+    },
+    {
+        "sigla":"TA",
+        "significado":"terapia-alvo "
+    },
+    {
+        "sigla":"BRC",
+        "significado":"bromocriptina "
+    },
+    {
+        "sigla":"CAB",
+        "significado":"cabergolina "
+    },
+    {
+        "sigla":"MIC",
+        "significado":"microprolactinoma "
+    },
+    {
+        "sigla":"MAC",
+        "significado":"macroprolactinoma "
+    },
+    {
+        "sigla":"D2R",
+        "significado":"receptor de dopamina tipo 2 "
+    },
+    {
+        "sigla":"eixo HPA",
+        "significado":"eixo hipot\u00e1lamo-pituit\u00e1ria-adrenal "
+    },
+    {
+        "sigla":"CRH",
+        "significado":"horm\u00f4nio liberador de corticotrofina corticotropin-releasing hormone"
+    },
+    {
+        "sigla":"CRH-BP",
+        "significado":" CRH binding protein"
+    },
+    {
+        "sigla":"CBG",
+        "significado":"globulina transportadora de corticosteroide corticosteroid-binding globulin"
+    },
+    {
+        "sigla":"SEA",
+        "significado":"secre\u00e7\u00e3o ect\u00f3pica de ACTH "
+    },
+    {
+        "sigla":"CSN",
+        "significado":"cortisol salivar noturno (ng\/dL) "
+    },
+    {
+        "sigla":"UFC",
+        "significado":"cortisol urin\u00e1rio livre (\u00b5g\/24h) urinary free cortisol"
+    },
+    {
+        "sigla":"PYY",
+        "significado":"polipept\u00eddeo Y "
+    },
+    {
+        "sigla":"CCK",
+        "significado":"colecistoquinina "
+    },
+    {
+        "sigla":"OXM",
+        "significado":"oxintomodulina "
+    },
+    {
+        "sigla":"GIP",
+        "significado":"polipept\u00eddeo insulinotr\u00f3pico dependente de glicose glucose-dependent insulinotropic polypeptide"
+    },
+    {
+        "sigla":"MC4R",
+        "significado":"receptor de melacortina 4 "
+    },
+    {
+        "sigla":"DRGE",
+        "significado":"doen\u00e7a do refluxo gastresof\u00e1gico "
+    },
+    {
+        "sigla":"FMUSP",
+        "significado":"Faculdade de Medicina da Universidade de S\u00e3o Paulo "
+    },
+    {
+        "sigla":"LIM\/25",
+        "significado":"Laborat\u00f3rio de Endocrinologia Celular e Molecular "
+    },
+    {
+        "sigla":"ADs",
+        "significado":"agonistas dopamin\u00e9rgicos "
+    },
+    {
+        "sigla":"T3",
+        "significado":"triiodotironina "
+    },
+    {
+        "sigla":"LT4",
+        "significado":"levotiroxina "
+    },
+    {
+        "sigla":"TBG",
+        "significado":"globulina ligadora de tiroxina thyroxine-binding globulin"
+    },
+    {
+        "sigla":"HPCB",
+        "significado":"hipoglicemia p\u00f3s-cirurgia bari\u00e1trica "
+    },
+    {
+        "sigla":"MC4 RA",
+        "significado":"agonista do receptor de melacortina 4 "
+    },
+    {
+        "sigla":"PCR",
+        "significado":"prote\u00edna C reativa "
+    },
+    {
+        "sigla":"TGF-\u03b2",
+        "significado":"fator beta de transforma\u00e7\u00e3o e crescimento transforming growth factor beta"
+    },
+    {
+        "sigla":"Fs",
+        "significado":"cortisol s\u00e9rico "
+    },
+    {
+        "sigla":"HAP",
+        "significado":"hiperaldosteronismo prim\u00e1rio "
+    },
+    {
+        "sigla":"APR",
+        "significado":"atividade plasm\u00e1tica de renina "
+    },
+    {
+        "sigla":"CAP",
+        "significado":"concentra\u00e7\u00e3o de aldosterona plasm\u00e1tica "
+    },
+    {
+        "sigla":"ARP",
+        "significado":"atividade de renina plasm\u00e1tica "
+    },
+    {
+        "sigla":"APA",
+        "significado":"adenoma produtor de aldosterona "
+    },
+    {
+        "sigla":"HAI",
+        "significado":"hiperplasia adrenal idiop\u00e1tica "
+    },
+    {
+        "sigla":"ARM",
+        "significado":"antagonista do receptor mineralocorticoide "
+    },
+    {
+        "sigla":"CVA",
+        "significado":"cateterismo de veias adrenais "
+    },
+    {
+        "sigla":"intervalo QT",
+        "significado":"dist\u00e2ncia entre a onda Q e T avaliadas no exame de eletrocardiograma "
+    },
+    {
+        "sigla":"TRH",
+        "significado":"horm\u00f4nio liberador de tirotrofina thyrotropin-releasing hormone"
+    },
+    {
+        "sigla":"IMC",
+        "significado":"\u00edndice de massa corporal (kg\/m2) "
+    },
+    {
+        "sigla":"PA",
+        "significado":"press\u00e3o arterial (mmHg) "
+    },
+    {
+        "sigla":"GJ",
+        "significado":"glicemia de jejum (mg\/dL) "
+    },
+    {
+        "sigla":"CT",
+        "significado":"colesterol total (mg\/dL) "
+    },
+    {
+        "sigla":"TGL",
+        "significado":"triglicer\u00eddeos (mg\/dL) "
+    },
+    {
+        "sigla":"POP",
+        "significado":"prolapso de \u00f3rg\u00e3os p\u00e9lvicos "
+    },
+    {
+        "sigla":"IUE",
+        "significado":"incontin\u00eancia urin\u00e1ria de esfor\u00e7o "
+    },
+    {
+        "sigla":"TMAP",
+        "significado":"treinamento dos m\u00fasculos do assoalho p\u00e9lvico "
+    },
+    {
+        "sigla":"CA",
+        "significado":"colporrafia anterior "
+    },
+    {
+        "sigla":"CCR",
+        "significado":"carcinoma de c\u00e9lulas renais "
+    },
+    {
+        "sigla":"NC",
+        "significado":"nefrectomia citorredutora "
+    },
+    {
+        "sigla":"IL-X",
+        "significado":"interleucina X "
+    },
+    {
+        "sigla":"IFN-\u03b1",
+        "significado":"interferon \u03b1 "
+    },
+    {
+        "sigla":"mCCR",
+        "significado":"carcinoma de c\u00e9lulas renais metast\u00e1tico "
+    },
+    {
+        "sigla":"PS",
+        "significado":"estado de desempenho performance status"
+    },
+    {
+        "sigla":"QT",
+        "significado":"quimioterapia "
+    },
+    {
+        "sigla":"LFD",
+        "significado":"linfadenectomia "
+    },
+    {
+        "sigla":"LFN",
+        "significado":"linfonodo "
+    },
+    {
+        "sigla":"NR",
+        "significado":"nefrectomia radical "
+    },
+    {
+        "sigla":"SG",
+        "significado":"sobrevida global "
+    },
+    {
+        "sigla":"VEGF",
+        "significado":"fator de crescimento do endot\u00e9lio vascular vascular endothelial growth factor"
+    },
+    {
+        "sigla":"RTUtb",
+        "significado":"resse\u00e7\u00e3o transuretral de tumor de bexiga "
+    },
+    {
+        "sigla":"CUBNMI",
+        "significado":"carcinoma urotelial de bexiga n\u00e3o m\u00fasculo invasivo "
+    },
+    {
+        "sigla":"CBNMI",
+        "significado":"carcinoma de bexiga n\u00e3o m\u00fasculo invasivo "
+    },
+    {
+        "sigla":"TUS",
+        "significado":"trato urin\u00e1rio superior "
+    },
+    {
+        "sigla":"CIS",
+        "significado":"carcinoma in situ "
+    },
+    {
+        "sigla":"Luts",
+        "significado":"sintomas do trato urin\u00e1rio inferior lower urinary tract symptoms"
+    },
+    {
+        "sigla":"HPB",
+        "significado":"hiperplasia prost\u00e1tica benigna "
+    },
+    {
+        "sigla":"i5PDE",
+        "significado":"inibidores da fosfodiesterase tipo 5 "
+    },
+    {
+        "sigla":"RTUP",
+        "significado":"ressec\u00e7\u00e3o transuretral da pr\u00f3stata "
+    },
+    {
+        "sigla":"PSA",
+        "significado":"ant\u00edgeno prost\u00e1tico espec\u00edfico prostatic-specific antigen"
+    },
+    {
+        "sigla":"TMD",
+        "significado":"ter\u00e7o m\u00e9dio direito "
+    },
+    {
+        "sigla":"DP",
+        "significado":"doen\u00e7a de Peyronie "
+    },
+    {
+        "sigla":"DAPP",
+        "significado":"di\u00e2metro anteroposterior da pelve renal "
+    },
+    {
+        "sigla":"SCDTU",
+        "significado":"sistema de classifica\u00e7\u00e3o da dilata\u00e7\u00e3o do trato urin\u00e1rio "
+    },
+    {
+        "sigla":"JUP",
+        "significado":"jun\u00e7\u00e3o ureteropi\u00e9lica "
+    },
+    {
+        "sigla":"RVU",
+        "significado":"refluxo vesicoureteral "
+    },
+    {
+        "sigla":"UCGM",
+        "significado":"uretrocistografia miccional "
+    },
+    {
+        "sigla":"QV",
+        "significado":"qualidade de vida "
+    },
+    {
+        "sigla":"IUPPR",
+        "significado":"incontin\u00eancia urin\u00e1ria p\u00f3s-prostatectomia radical "
+    },
+    {
+        "sigla":"EUA",
+        "significado":"esf\u00edncter urin\u00e1rio artificial "
+    },
+    {
+        "sigla":"EU",
+        "significado":"estudo urodin\u00e2mico "
+    },
+    {
+        "sigla":"PPA",
+        "significado":"press\u00e3o de perda abdominal "
+    },
+    {
+        "sigla":"BCG",
+        "significado":"bacilo de Calmette-Gu\u00e9rin (normalmente se usa s\u00f3 a sigla, sem nome por extenso) "
+    },
+    {
+        "sigla":"Sasi",
+        "significado":"Subsistema de Aten\u00e7\u00e3o \u00e0 Sa\u00fade Ind\u00edgena "
+    },
+    {
+        "sigla":"Pnaspi",
+        "significado":"Pol\u00edtica Nacional de Aten\u00e7\u00e3o \u00e0 Sa\u00fade dos Povos Ind\u00edgenas "
+    },
+    {
+        "sigla":"Unigranrio",
+        "significado":"Universidade do Grande Rio "
+    },
+    {
+        "sigla":"Unirio",
+        "significado":"Universidade Federal do Estado do Rio de Janeiro "
+    },
+    {
+        "sigla":"Uerj",
+        "significado":"Universidade do Estado do Rio de Janeiro "
+    },
+    {
+        "sigla":"Unesa",
+        "significado":"Universidade Est\u00e1cio de S\u00e1 "
+    },
+    {
+        "sigla":"TOTG",
+        "significado":"teste oral de toler\u00e2ncia \u00e0 glicose (mg\/dL) "
+    },
+    {
+        "sigla":"CAD",
+        "significado":"cetoacidose diab\u00e9tica "
+    },
+    {
+        "sigla":"Ufcspa",
+        "significado":"Universidade Federal de Ci\u00eancias da Sa\u00fade de Porto Alegre "
+    },
+    {
+        "sigla":"PKC",
+        "significado":"prote\u00edna kinase C "
+    },
+    {
+        "sigla":"Mapa",
+        "significado":"monitoramento ambulatorial de press\u00e3o arterial "
+    },
+    {
+        "sigla":"NEM1",
+        "significado":"neoplasia end\u00f3crina m\u00faltipla do tipo 1 "
+    },
+    {
+        "sigla":"ADH",
+        "significado":"horm\u00f4nio antidiur\u00e9tico antidiuretic hormone"
+    },
+    {
+        "sigla":"T4L",
+        "significado":"tiroxina livre "
+    },
+    {
+        "sigla":"BMNAs",
+        "significado":"b\u00f3cios multinodulares at\u00f3xicos "
+    },
+    {
+        "sigla":"BMNTs",
+        "significado":"b\u00f3cios multinodulares t\u00f3xicos "
+    },
+    {
+        "sigla":"BMNs",
+        "significado":"b\u00f3cios multinodulares "
+    },
+    {
+        "sigla":"DG",
+        "significado":"doen\u00e7a de Graves "
+    },
+    {
+        "sigla":"TRAb",
+        "significado":"anticorpo antirreceptor de horm\u00f4nio estimulador da tiroide "
+    },
+    {
+        "sigla":"ICIs",
+        "significado":"inibidores dos checkpoints imunol\u00f3gicos "
+    },
+    {
+        "sigla":"PET\/TC",
+        "significado":"tomografia por emiss\u00e3o de p\u00f3sitrons acoplada \u00e0 tomografia computadorizada positron emission tomography computed tomography"
+    },
+    {
+        "sigla":"Sabr",
+        "significado":"radioterapia com t\u00e9cnica estereot\u00e1tica ablativa stereotactic ablative radiotherapy"
+    },
+    {
+        "sigla":"JUP",
+        "significado":"jun\u00e7\u00e3o ureteropi\u00e9lica "
+    },
+    {
+        "sigla":"TC",
+        "significado":"tomografia computadorizada "
+    },
+    {
+        "sigla":"PET",
+        "significado":"tomografia computadorizada por emiss\u00e3o de p\u00f3sitrons "
+    },
+    {
+        "sigla":"Iras",
+        "significado":"infec\u00e7\u00f5es relacionadas \u00e0 assist\u00eancia \u00e0 sa\u00fade "
+    },
+    {
+        "sigla":"ESF",
+        "significado":"Estrat\u00e9gia Sa\u00fade da Fam\u00edlia "
+    },
+    {
+        "sigla":"SDHEA",
+        "significado":"sulfato de dehidroepiandrosterona "
+    },
+    {
+        "sigla":"RT",
+        "significado":"radioterapia "
+    },
+    {
+        "sigla":"LHRH",
+        "significado":"horm\u00f4nio liberador do horm\u00f4nio luteinizante luteinizing hormone releasing hormone"
+    },
+    {
+        "sigla":"IVL",
+        "significado":"invas\u00e3o v\u00e1sculo-linf\u00e1tica "
+    },
+    {
+        "sigla":"NADH",
+        "significado":"nicotinamida adenina dinucleot\u00eddeo hidreto "
+    },
+    {
+        "sigla":"FADH",
+        "significado":"flavina adenina dinucleot\u00eddeo hidreto "
+    },
+    {
+        "sigla":"PCR",
+        "significado":"rea\u00e7\u00e3o em cadeia da polimerase polymerase chain reaction"
+    },
+    {
+        "sigla":"qRT-PCR",
+        "significado":"rea\u00e7\u00e3o em cadeia da polimerase quantitativa em tempo real real time quantitative polymerase chain reaction"
+    },
+    {
+        "sigla":"PSMA",
+        "significado":"ant\u00edgeno de membrana prost\u00e1tico espec\u00edfico prostate-specific membrane antigen"
+    },
+    {
+        "sigla":"m\u00fasculo-invasiva",
+        "significado":"m\u00fasculo-invasivo "
+    },
+    {
+        "sigla":"PPNAD",
+        "significado":"doen\u00e7a adrenocortical nodular pigmentada prim\u00e1ria primary pigmented nodular adrenocortical disease"
+    },
+    {
+        "sigla":"rhGH [medicamento]",
+        "significado":"horm\u00f4nio de crescimento humano recombinante recombinant human growth hormone"
+    },
+    {
+        "sigla":"LA-rhGH",
+        "significado":"horm\u00f4nio de crescimento de a\u00e7\u00e3o longa "
+    },
+    {
+        "sigla":"PPNAD",
+        "significado":"hiperplasia adrenal micronodular pigmentada "
+    },
+    {
+        "sigla":"Daem",
+        "significado":"defici\u00eancia androg\u00eanica do envelhecimento masculino "
+    },
+    {
+        "sigla":"SDSH",
+        "significado":"s\u00edndrome do desejo sexual hipoativo "
+    },
+    {
+        "sigla":"Sahos",
+        "significado":"apneia e hipopneia obstrutiva do sono "
+    },
+    {
+        "sigla":"VEGF",
+        "significado":"fator de crescimento endotelial vascular "
+    },
+    {
+        "sigla":"GLP-1RA",
+        "significado":"agonista do receptor pept\u00eddeo semelhante ao glucagon 1 glucagon-like peptide 1 receptor agonist"
+    },
+    {
+        "sigla":"NISCG",
+        "significado":"neoplasia in situ de c\u00e9lulas germinativas "
+    },
+    {
+        "sigla":"TCGs",
+        "significado":"tumores de c\u00e9lulas germinativas "
+    },
+    {
+        "sigla":"RT-PCR",
+        "significado":"rea\u00e7\u00e3o de transcriptase reversa seguida de rea\u00e7\u00e3o em cadeia da polimerase "
+    },
+    {
+        "sigla":"CBG",
+        "significado":"globulina ligadora de cortisol cortisol-binding globulin"
+    },
+    {
+        "sigla":"T2",
+        "significado":"diiodotironina "
+    },
+    {
+        "sigla":"PET-PSMA",
+        "significado":"tomografia por emiss\u00e3o de p\u00f3sitrons com ant\u00edgeno de membrana espec\u00edfico para pr\u00f3stata "
+    },
+    {
+        "sigla":"SBRT",
+        "significado":"radioterapia estereot\u00e1xica corporal stereotactic body radiation therapy"
+    },
+    {
+        "sigla":"SARS-CoV-2",
+        "significado":"coronav\u00edrus da s\u00edndrome respirat\u00f3ria aguda grave 2 "
+    },
+    {
+        "sigla":"aGLP-1",
+        "significado":"agonista do pept\u00eddeo semelhante ao glucagon 1 "
+    },
+    {
+        "sigla":"HAR",
+        "significado":"hipertens\u00e3o arterial resistente "
+    },
+    {
+        "sigla":"DCV",
+        "significado":"doen\u00e7a cardiovascular "
+    },
+    {
+        "sigla":"PAS",
+        "significado":"press\u00e3o arterial sist\u00f3lica "
+    },
+    {
+        "sigla":"PAD",
+        "significado":"press\u00e3o arterial diast\u00f3lica "
+    },
+    {
+        "sigla":"FDG",
+        "significado":"fluorodesoxiglicose "
+    },
+    {
+        "sigla":"ICFEr",
+        "significado":"insufici\u00eancia card\u00edaca com fra\u00e7\u00e3o de eje\u00e7\u00e3o reduzida "
+    },
+    {
+        "sigla":"iECA",
+        "significado":"inibidor da enzima conversora de angiotensina "
+    },
+    {
+        "sigla":"BRAs",
+        "significado":"bloqueadores dos receptores da angiotensina "
+    },
+    {
+        "sigla":"TFG",
+        "significado":"taxa de filtra\u00e7\u00e3o glomerular "
+    },
+    {
+        "sigla":"BNP",
+        "significado":"pept\u00eddeo natriur\u00e9tico tipo B "
+    },
+    {
+        "sigla":"iNRA",
+        "significado":"inibidor de neprilisina e receptor de angiotensina A sigla em ingl\u00eas \u00e9 ARNI"
+    },
+    {
+        "sigla":"RPM",
+        "significado":"respira\u00e7\u00e3o por minuto Tamb\u00e9m \u00e9 usada a sigla MRPM (murmurio respirat\u00f3rio por minuto)"
+    },
+    {
+        "sigla":"ADT",
+        "significado":"terapia de priva\u00e7\u00e3o androg\u00eanica androgen deprivation therapy"
+    },
+    {
+        "sigla":"SNP",
+        "significado":"polimorfismo de nucleot\u00eddeo \u00fanico single nucleotide polymorphism"
+    },
+    {
+        "sigla":"SERM",
+        "significado":"modulador seletivo de receptores de estrog\u00eanio selective estrogen receptor modulator"
+    },
+    {
+        "sigla":"AMH",
+        "significado":"horm\u00f4nio antim\u00fclleriano anti-m\u00fcllerian hormone"
+    },
+    {
+        "sigla":"DAC",
+        "significado":"doen\u00e7a arterial coronariana "
+    },
+    {
+        "sigla":"LCAT",
+        "significado":"lecitina-colesterol aciltransferase lecitin-cholesterol acyltransferase"
+    },
+    {
+        "sigla":"CETP",
+        "significado":"prote\u00edna de transfer\u00eancia de colesterol esterificado cholesterol ester transfer protein"
+    },
+    {
+        "sigla":"RMC",
+        "significado":"resson\u00e2ncia magn\u00e9tica do cora\u00e7\u00e3o "
+    },
+    {
+        "sigla":"ECO",
+        "significado":"ecocardiograma ou ecocardiografia (usar a primeira) "
+    },
+    {
+        "sigla":"MS",
+        "significado":"morte s\u00fabita "
+    },
+    {
+        "sigla":"CDI",
+        "significado":"cardiodesfibrilador implant\u00e1vel "
+    },
+    {
+        "sigla":"MASVM",
+        "significado":"movimento anterior sist\u00f3lico da valva mitral "
+    },
+    {
+        "sigla":"VSVE",
+        "significado":"via de sa\u00edda do ventr\u00edculo esquerdo "
+    },
+    {
+        "sigla":"TVNS",
+        "significado":"taquicardia ventricular n\u00e3o sustentada "
+    },
+    {
+        "sigla":"MACE",
+        "significado":"evento adverso cardiovascular maior major adverse cardiovascular event"
+    },
+    {
+        "sigla":"BAVT",
+        "significado":"bloqueio atrioventricular total "
+    },
+    {
+        "sigla":"BMT",
+        "significado":"transplante de medula \u00f3ssea bone marrow transplant"
+    },
+    {
+        "sigla":"DAVD",
+        "significado":"displasia arritmog\u00eanica do ventr\u00edculo direito "
+    },
+    {
+        "sigla":"MASVM",
+        "significado":"movimento anterior sist\u00f3lico da valva mitral "
+    },
+    {
+        "sigla":"TVNS",
+        "significado":"taquicardia ventricular n\u00e3o sustentada "
+    },
+    {
+        "sigla":"ICC",
+        "significado":"insufici\u00eancia card\u00edaca congestiva "
+    },
+    {
+        "sigla":"MRPA",
+        "significado":"monitoramento residencial da press\u00e3o arterial "
+    },
+    {
+        "sigla":"Lp(a)",
+        "significado":"lipoprote\u00edna a "
+    },
+    {
+        "sigla":"VOP",
+        "significado":"velocidade de onda de pulso "
+    },
+    {
+        "sigla":"AP\/ARP",
+        "significado":"aldosterona plasm\u00e1tica\/atividade plasm\u00e1tica de renina "
+    },
+    {
+        "sigla":"VPA",
+        "significado":"variabilidade da press\u00e3o arterial "
+    },
+    {
+        "sigla":"Qm\u00e1x livre",
+        "significado":"taxa de fluxo livre m\u00e1xima "
+    },
+    {
+        "sigla":"ISRS",
+        "significado":"inibidor seletivo da recapta\u00e7\u00e3o de serotonina "
+    },
+    {
+        "sigla":"ABP",
+        "significado":"prote\u00edna ligadora de androg\u00eanios "
+    },
+    {
+        "sigla":"IMi",
+        "significado":"insufici\u00eancia mitral "
+    },
+    {
+        "sigla":"IAo",
+        "significado":"insufici\u00eancia a\u00f3rtica "
+    },
+    {
+        "sigla":"SCE",
+        "significado":"sobrevida c\u00e2ncer espec\u00edfica (\u00e9 a mesma coisa que a sigla CSS [sobreviv\u00eancia c\u00e2ncer espec\u00edfica] - dar preferencia a SCE) "
+    },
+    {
+        "sigla":"Hb",
+        "significado":"hemoglobina (g\/dL) "
+    },
+    {
+        "sigla":"MDP-99mTc",
+        "significado":"metileno-disfosfonato marcado com tecn\u00e9cio-99 metaest\u00e1vel "
+    },
+    {
+        "sigla":"PSMA-18F",
+        "significado":"ant\u00edgeno espec\u00edfico da membrana prost\u00e1tica marcada com fl\u00faor-18 o 18 vai sobrescrito"
+    },
+    {
+        "sigla":"PSMA-68Ga",
+        "significado":"ant\u00edgeno espec\u00edfico da membrana prost\u00e1tica marcada com g\u00e1lio-68 68 vai sobrescrito"
+    },
+    {
+        "sigla":"fluoreto-18F",
+        "significado":"fluoreto de s\u00f3dio-18F 18 vai sobrescrito"
+    },
+    {
+        "sigla":"FDG-18F",
+        "significado":"2-Fl\u00faor-D-desoxi-glicose marcada com fl\u00faor-18 18 vai sobrescrito"
+    },
+    {
+        "sigla":"RM",
+        "significado":"resson\u00e2ncia magn\u00e9tica "
+    },
+    {
+        "sigla":"SPECT",
+        "significado":"tomografia computadorizada por emiss\u00e3o de f\u00f3ton \u00fanico single-photon emission computed tomography"
+    },
+    {
+        "sigla":"PET\/TC PSMA",
+        "significado":"tomografia por emiss\u00e3o de p\u00f3sitrons acoplada \u00e0 tomografia computadorizada com ant\u00edgeno de membrana espec\u00edfico para pr\u00f3stata "
+    },
+    {
+        "sigla":"ATPO",
+        "significado":"anti-tireoperoxidase "
+    },
+    {
+        "sigla":"AATG",
+        "significado":"anti-tireoglobulina "
+    },
+    {
+        "sigla":"USG",
+        "significado":"ultrassonografia "
+    },
+    {
+        "sigla":"SHPNI",
+        "significado":"s\u00edndrome de hipoglicemia pancreatog\u00eanica n\u00e3o insulinoma "
+    },
+    {
+        "sigla":"AVE",
+        "significado":"acidente vascular encef\u00e1lico "
+    },
+    {
+        "sigla":"GABA",
+        "significado":"\u00e1cido gamaminobut\u00edrico "
+    },
+    {
+        "sigla":"ICFEp",
+        "significado":"insufici\u00eancia card\u00edaca com fra\u00e7\u00e3o de eje\u00e7\u00e3o preservada "
+    }
+]
