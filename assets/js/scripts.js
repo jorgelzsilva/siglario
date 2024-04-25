@@ -11,11 +11,7 @@ function fetchSiglasData(callback) {
           }
       }
   };
-<<<<<<< HEAD
-  xhr.open('GET', 'https://github.com/jorgelzsilva/siglario/blob/main/data/siglario.json', true);
-=======
-  xhr.open('GET', '/assets/data/siglas.json', true);
->>>>>>> 7505f5a (Teste)
+  xhr.open('GET', '/data/siglas.json', true);
   xhr.send();
 }
 
@@ -53,7 +49,3 @@ function initializeApp(siglasData) {
 
 // Faz a solicitação AJAX para obter os dados das siglas e inicializa a aplicação
 fetchSiglasData(initializeApp);
-
-var texto = 'Olá, mundo!';
-
-siglasList.textContent = texto;
