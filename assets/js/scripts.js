@@ -11,7 +11,7 @@ function fetchSiglasData(callback) {
           }
       }
   };
-  xhr.open('GET', '/data/siglario.json', true);
+  xhr.open('GET', 'https://github.com/jorgelzsilva/siglario/blob/main/data/siglario.json', true);
   xhr.send();
 }
 
