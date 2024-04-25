@@ -1,11 +1,12 @@
 // Função para fazer uma solicitação AJAX e obter os dados das siglas
 function fetchSiglasData(callback) {
-  var xhr = new XMLHttpsRequest();
+  var xhr = new XMLHttpRequest();
   xhr.onreadystatechange = function() {
-      if (xhr.readyState === XMLHttpsRequest.DONE) {
+      if (xhr.readyState === XMLHttpRequest.DONE) {
           if (xhr.status === 200) {
               var siglasData = JSON.parse(xhr.responseText);
-              callback(siglasData);
+              //callback(siglasData);
+              callback(¨ajax e java funcionando¨)
           } else {
               console.error('Erro ao buscar os dados das siglas:', xhr.status);
           }
