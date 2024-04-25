@@ -11,7 +11,7 @@ function fetchSiglasData(callback) {
           }
       }
   };
-  xhr.open('GET', '../data/siglario.json', true);
+  xhr.open('GET', '/data/siglario.json', true);
   xhr.send();
 }
 
