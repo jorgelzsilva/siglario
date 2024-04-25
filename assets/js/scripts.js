@@ -5,8 +5,7 @@ function fetchSiglasData(callback) {
       if (xhr.readyState === XMLHttpRequest.DONE) {
           if (xhr.status === 200) {
               var siglasData = JSON.parse(xhr.responseText);
-              //callback(siglasData);
-              callback(¨ajax e java funcionando¨)
+              callback(siglasData);
           } else {
               console.error('Erro ao buscar os dados das siglas:', xhr.status);
           }
@@ -50,3 +49,7 @@ function initializeApp(siglasData) {
 
 // Faz a solicitação AJAX para obter os dados das siglas e inicializa a aplicação
 fetchSiglasData(initializeApp);
+
+var texto = 'Olá, mundo!';
+
+siglasList.textContent = texto;
