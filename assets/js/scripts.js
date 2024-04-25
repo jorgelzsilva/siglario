@@ -11,7 +11,11 @@ function fetchSiglasData(callback) {
           }
       }
   };
+<<<<<<< HEAD
   xhr.open('GET', 'https://github.com/jorgelzsilva/siglario/blob/main/data/siglario.json', true);
+=======
+  xhr.open('GET', '/assets/data/siglas.json', true);
+>>>>>>> 7505f5a (Teste)
   xhr.send();
 }
 
